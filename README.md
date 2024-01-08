@@ -9,3 +9,6 @@ Authors: Agata Sobczak, Katarzyna Kudełko, Jakub Franczak
 A report on independence testing, covariation measures and correspondence analysis based on selected data.\
 Authors: Agata Sobczak, Katarzyna Kudełko, Jakub Franczak
 
+# Raport3
+A report on tests of symmetry and homogeneity of marginal distributions for data from 2x2 tables and larger, Simpson's Paradox.\
+Authors: Agata Sobczak, Katarzyna Kudełko, Jakub Franczak
